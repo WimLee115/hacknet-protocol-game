@@ -1,5 +1,22 @@
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=venom&color=22ff44&height=300&section=header&text=HACKNET&fontSize=90&fontColor=000000&animation=twinkling&fontAlignY=35&desc=%F0%9F%92%80%20Competitive%20Multiplayer%20Hacking%20Simulator%20%E2%80%A2%20Terminal%20PvP&descSize=18&descAlignY=55&descColor=333333" width="100%" />
+
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=22FF44&center=true&vCenter=true&multiline=true&repeat=true&width=750&height=160&lines=Hack+your+opponent's+server+before+they+hack+yours;35+commands+%2B+5+classes+%2B+ELO+ranking;58%2C800%2B+lines+of+TypeScript+%2B+975+tests;Solo-built+over+101+sprints+of+obsession" alt="Typing SVG" />
+
+<br/>
+
+[![Status](https://img.shields.io/badge/Status-In_Development-22ff44?style=for-the-badge)](https://github.com/WimLee115/hacknet-protocol-game)
+[![TypeScript](https://img.shields.io/badge/TypeScript-58,800+_LOC-3178c6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![Tests](https://img.shields.io/badge/Tests-975_Passing-22ff44?style=for-the-badge&logo=vitest&logoColor=white)](https://vitest.dev/)
+[![React](https://img.shields.io/badge/React-19-61dafb?style=for-the-badge&logo=react&logoColor=black)](https://react.dev/)
+[![Node.js](https://img.shields.io/badge/Node.js-20+-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://nodejs.org/)
+[![License](https://img.shields.io/badge/License-MIT-22ff44?style=for-the-badge)](LICENSE)
+
+<br/>
+
 ```
  ██╗  ██╗ █████╗  ██████╗██╗  ██╗███╗   ██╗███████╗████████╗
  ██║  ██║██╔══██╗██╔════╝██║ ██╔╝████╗  ██║██╔════╝╚══██╔══╝
@@ -10,18 +27,9 @@
               P R O T O C O L
 ```
 
-# Competitive Multiplayer Hacking Simulator
+<img src="https://skillicons.dev/icons?i=ts,react,nodejs,express,postgres,redis,mongodb,docker,vite,tailwind&perline=10" />
 
-### Hack your opponent's server before they hack yours.
-
-[![Status](https://img.shields.io/badge/Status-In_Development-22ff44?style=for-the-badge)](https://github.com/WimLee115/hacknet-protocol-game)
-[![TypeScript](https://img.shields.io/badge/TypeScript-58,800+_LOC-3178c6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
-[![Tests](https://img.shields.io/badge/Tests-975_Passing-22ff44?style=for-the-badge&logo=vitest&logoColor=white)](https://vitest.dev/)
-[![React](https://img.shields.io/badge/React-19-61dafb?style=for-the-badge&logo=react&logoColor=black)](https://react.dev/)
-[![Node.js](https://img.shields.io/badge/Node.js-20+-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://nodejs.org/)
-[![License](https://img.shields.io/badge/License-MIT-22ff44?style=for-the-badge)](LICENSE)
-
----
+<br/>
 
 **HACKNET PROTOCOL** is a full-stack, browser-based competitive hacking game. Two players compete head-to-head in real-time terminal duels using authentic-feeling commands. Compromise your opponent's server while defending your own — all in a sleek cyberpunk UI.
 
@@ -29,7 +37,7 @@
 
 </div>
 
----
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%" >
 
 ## What Makes It Different
 
@@ -44,7 +52,7 @@
 | **Full Economy** | Player marketplace, season pass, achievement system |
 | **Zero Dependencies Audio** | Web Audio API synthesized sounds — no files needed |
 
----
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%" >
 
 ## Game Overview
 
@@ -96,7 +104,7 @@ Global faction competition with unique identities:
 - **Black Hat** — No rules. Maximum damage.
 - **Hacktivist** — Hack for a cause.
 
----
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%" >
 
 ## Feature Breakdown
 
@@ -131,7 +139,7 @@ Global faction competition with unique identities:
 - **Firewalls** — Custom rule builder (up to 20 rules)
 - **Honeypots** — 3 types of decoy systems to mislead attackers
 
----
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%" >
 
 ## Technical Highlights
 
@@ -180,7 +188,7 @@ The bot tracks match state in real-time and uses a 6-priority decision system:
 5. Time pressure rush (< 60s remaining)
 6. Phase-appropriate commands
 
----
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%" >
 
 ## Tech Stack
 
@@ -193,7 +201,7 @@ The bot tracks match state in real-time and uses a 6-priority decision system:
 | **DevOps** | Docker Compose, GitHub Actions, Sentry, Multi-stage Dockerfile |
 | **Audio** | Web Audio API (oscillators + noise buffers, zero external files) |
 
----
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%" >
 
 ## Development Journey
 
@@ -219,7 +227,7 @@ Sprints 91-101 █████████████████████�
 - **Sprint 100** — Enhanced replay system
 - **Sprint 101** — Terminal 2.0 + Class Selection
 
----
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%" >
 
 ## Source Code
 
@@ -241,6 +249,10 @@ The full source code is in the private repository [hacknet-protocol](https://git
 
 *Solo-built with 58,800+ lines of TypeScript, 975 tests, and 101 sprints of obsession.*
 
-**HACKNET PROTOCOL** — Access Granted. Game On.
+**HACKNET PROTOCOL** -- Access Granted. Game On.
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=22ff44&height=120&section=footer" width="100%" />
 
 </div>
